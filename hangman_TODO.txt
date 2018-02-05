@@ -1,0 +1,14 @@
+Game is working
+
+To Do
+--------------
+Add images of ragdoll with poses 1-10
+program them into the game
+If corresponding Int >9 then have a button saying "game over" and stating the word 
+Make it so the player can't input the same character once, have this reset on new game being pressed.
+----
+Program the winning screen
+When the user presses "new game" on the winning screen start a new game in the main game
+----
+program a splash screen
+When the user presses "new game" on the splash screen start a new game in the main game
